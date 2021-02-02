@@ -1,0 +1,2 @@
+pelican
+mdx_wikilink_plus
